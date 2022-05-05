@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to bottom, pink, violet, lightblue);
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
